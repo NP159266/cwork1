@@ -1,4 +1,4 @@
-#include "task_1.hpp"
+#include "n_2.hpp"
 int main() {
     int ar[1000];
     fill(ar, 100);
