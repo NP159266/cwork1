@@ -1,3 +1,9 @@
+//обязательно надо писать.... на уроке говорил зачем...
+//также просил не писать реализацию в заголовочных файлах.....
+
+#ifndef _n_1_hpp_
+#define _n_1_hpp_
+
 #include <iostream>
 #include <time.h>
 #include <string.h>
@@ -30,6 +36,8 @@ void bubbleSort(int* ar, int size){
 
 void printAr(int* ar, int size) {
     for (int i = 0; i < size; i++) {
-        cout << "[" << i << "#]\t[" << ar[i] << "]" << endl;
+        cout  << i << "\t" << ar[i] << endl;    вот такой формат должен быть.... не уверены спросите...
     }
 }
+
+#endif  //это тоже надо писать
