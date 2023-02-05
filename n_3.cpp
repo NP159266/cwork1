@@ -1,4 +1,4 @@
-#include "n_3.hpp"
+#include "n3.hpp"
 
 int main() {
     int ar[100];
