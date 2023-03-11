@@ -2,6 +2,6 @@
 #define _res_h_
 #include <iostream>
 void palchek(int);
-void reverse(int *);
+void reverse(int);
 #endif
 
